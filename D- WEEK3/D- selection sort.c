@@ -3,7 +3,7 @@
 #include <string.h>
 int main(void)
 {
-    // selection sort : o(n^2) array of 10 index : steps search : 100 step
+    // selection sort : o(n^2) and Ω(n^2) array of 10 index : steps search : 100 step
     //practice
     int numbers[100] = {
     42, 17, 93, 8, 65, 31, 77, 56, 29, 84,
